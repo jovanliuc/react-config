@@ -1,2 +1,2 @@
 # react-config
-This is a configurable solution about applications
+This is an awesome configurable solution for SPA
